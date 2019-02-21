@@ -1,6 +1,6 @@
 {
   "name": "vue-timepiece",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A simple vue time clocker component.",
   "main": "dist/vue-timepiece.min.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "timepiece",
     "vue-timepiece"
   ],
+  "homepage": "https://github.com/Asuralel/vue-timepiece",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",

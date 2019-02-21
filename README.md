@@ -4,11 +4,11 @@ A time picker (year|day|hour|minute|second) for **Vue 2.x**, with flexible time 
 
 ## Demo
 
-You can see the **Vue2 Timepicker** in action in the [Demo Page](https://phoenixwong.github.io/vue2-timepicker/)
+You can see the **Vue2 Timepicker** in action in the [Demo Page](https://asuralel.github.io/Asuralel.github.io-vue2-timepiece/)
 
-## Migration
+## Github
 
-Migrating from the Vue 1.x version? Please check [MIGRATION.md](https://github.com/phoenixwong/vue2-timepicker/blob/master/MIGRATION.md) for basic guidelines.
+[On click go to github](https://github.com/Asuralel/vue-timepiece) for basic guidelines.
 
 ## Dependencies
 
